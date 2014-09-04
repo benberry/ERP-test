@@ -1,0 +1,369 @@
+/*** def - start ***/
+	html{height:100%}
+	body{height:100%; color:#333333; font-family:Century Gothic, Verdana; font-family:Arial, Helvetica, sans-serif; font-size:9pt; margin:0px; padding:0px; background-color: #EEE;}
+	
+	a{color:#990099}
+	
+	p{font-size:12px;}
+	h1{font-size:20px; font-family:Century Gothic, Verdana}
+	h2{font-size:16px; font-family:Century Gothic, Verdana}
+	h3{font-size:12px; font-family:Century Gothic, Verdana}
+	.tips{font-size:9px}
+	.copyright{font-size:9px}
+	
+	hr{ height:1px; color:#ccc;}
+	
+	input{font-family:Century Gothic, Verdana; padding: 3px; border: 1px #ccc solid; }
+	input:hover{border: 1px solid #006;}
+	input[type="text"]{width:300px;}
+	input[type="password"]{width:300px}
+	input[type="radio"]{border:none}
+	input[type="checkbox"]{border:none}
+
+	textarea{border: 1px solid #ccc; font-family:Century Gothic, Verdana}
+	select{border: 1px solid  #ccc; font-family:Century Gothic, Verdana; padding: 3px}
+	select:hover{border: 1px solid #006;}
+	table{border-collapse:collapse;}
+	
+	fieldset{margin-bottom:5px; border-color:#eee}
+	legend{font-weight:800}
+	
+	.img{border:1px solid #999}
+	
+	.clear{clear:both;}
+	
+	.form-error{color:#FF3366}
+	.notice{font-size:10px; color:#339933; padding:3px}
+	
+/*** def - end ***/
+
+
+
+/*** container - start ***/
+/*	#container{min-height: 100%; margin-bottom: -14px; position: relative; background: url("../images/bg2.png")}*/
+	#container{min-height: 100%; margin-bottom: -14px; position: relative; background-color:#eee}
+	#header {color:#FFFFFF; background: url("../images/bg.png"); border-bottom: 1px solid #777; top: 0px; }
+	#header #sys_info {line-height: 30px}
+	#header #sys_info #left{float:left}
+	#header #sys_info #left div{float:left; padding-left:30px}
+	#header #sys_info #right{float:right; url("../images/images10.jpeg")}
+	#header #sys_info #right div{float:left; padding-right:30px}
+	#main_menu{}
+	#content{padding:20px; background:#;}
+	#content-curvy-corners{color:#000000; padding:10px 20px 10px 20px; background-color:#eee}
+	#content-curvy-corners-min-height{min-height:100px}
+	#footer{color:#FFFFFF; background-color:#000000; text-align:center; bottom:0; width:100%; height: 14px; position: fixed;}
+
+/*** container - end ***/
+
+
+
+/*** list page - start ***/
+	#list {background-color:#fff}
+	#list #title { height:30px; font-size:20px; background: url("../images/bg.png"); color:#FFFFFF; padding:3px 0 0 10px}
+	#list #search { background-color:#ddd; padding:5px 0 0 10px; margin-bottom:10px;}
+	#list #search #line-1 { margin:2px}	
+	#list #search #line-2 { margin:2px}
+	#list #search input[type="text"] { width:100px};
+	#list #tool { background-color:#FFFFFF; margin:5px 0 0 10px;}
+	#list #tool #paging { width:300px; text-align:center; float:left; padding-top:0px; margin:10px 0 0 10px; height:36px; }
+	#list #tool #button { text-align:center; float:right; margin:5px 0 0 10px; }
+	#list #location { text-align:left; padding: 5px 0 8px 30px; border-top:1px #CC3399 dotted; }
+	#list table{ width:100%; border-collapse:collapse; text-align:center; background-color:#FFFFFF; }
+	#list table thead{}
+	/* #list table tbody tr:hover{ background: url("../images/bg2.png"); cursor:pointer; }*/
+	#list table tbody tr:hover{background-color: #E9F4FE; cursor:pointer} 
+	#list table th { font-size:14px; font-weight: normal; padding:5px 5px 5px 5px; background: url("../images/bg.png"); color:#FFFFFF; vertical-align:middle; text-align:center; }
+	#list table th a{ color:#FFFFFF; }
+	#list table th .title{ margin-right:10px; }
+	#list table th .icon img{ border:0; }
+	#list table td {padding:5px 5px 5px 5px; }
+	#list table th, #list table td { border:1px #EEEEEE solid; }
+/**** list page - end ***/
+
+
+
+/**** edit page - start ***/
+	#edit{background-color:#fff;}
+	#edit #title table{ height:30px; width:100%; background: url("../images/bg.png"); font-size:9px; color:#FFFFFF; padding:3px 0 0 10px}
+	#edit #title table th{ font-size:20px; width:50%; font-weight:normal}
+	#edit table td{ vertical-align:top}
+	#edit .single-form input[type="text"]{ width:388px}	
+	#edit .single-form select{ min-width:400px}
+	#edit .single-form select option{padding-top: 3px}
+	#edit #tool{ background-color:#ddd; height:36px; padding:5px 0 0 10px}
+	#edit fieldset{ margin:30px; padding:20px}
+	#edit fieldset p{ margin-top:10px; margin-bottom:10px}
+	#edit fieldset label{ margin-left:50px; width:200px; float:left}
+	#edit .inner_list{}
+	#edit .inner_list table{ border:#eeeeee 1px solid; }
+	#edit .inner_list table th{ background: url("../images/bg.png"); height:30px; color:#FFFFFF; }
+	#edit .inner_list table tr{ background:#fff; text-align:center; height:30px; }
+	#edit .inner_list #sub-title{ background:#ccc; text-align:left; }
+/**** edit page - end ***/
+
+
+/**** dialog - start ***/
+	#dialog{margin:80px; background-color:#FFFFFF}
+	#dialog fieldset{padding:30px; text-align:center}
+	#dialog fieldset div{float:left;}
+	#dialog fieldset div img {}	
+	#dialog fieldset span{float:left; font-size:24px; padding: 46px 0px 0px 50px; }
+/**** dialog page - end ***/
+
+
+/*** login page - start ***/
+	#login_container .title {background: url("../images/bg.png");}
+	#login_container h1{font-size: 36px; font-weight:normal}
+	#login_container .title{width:450px; height:25px; font-size:18px; background-color:#333333; color:#FFFFFF; text-align:center; padding-top:5px}
+	#login{width:500px; height:150px; text-align:left; background:#fff; border: 1px #333333 dotted}
+	#login #logo{padding:20px 10px 10px 20px; float:left}
+	#login #login-form { margin-top: 20px; }
+	#login #login-form .fixed{float:left; width:60px; text-align:right; vertical-align:middle; padding-right: 20px}
+	/*#login #login-form p{margin: 5px; color:#333}*/
+	#login #login-form input, password{width:140px;}
+	#login #login-form #submit{width:80px;}
+	#login #copyright{text-align:center; float:right}
+/*** login page - end ***/
+
+
+
+/*** product page - start ***/
+
+	/* TAB product-photo */
+		#product-photo table {width:100%; border:1px dotted #eee}
+		#product-photo table th{padding:5px 5px 5px 5px; background: url("../images/bg.png"); color:#FFFFFF; vertical-align:middle; text-align:center}
+		/* #product-photo table tr:hover{background: url("../images/bg2.png");} */
+		#product-photo table td{text-align:center; vertical-align:middle}
+	/* TAB product-photo */	
+	
+	/* TAB product-attribute */
+		#product-attribute .pool{width:50%; float:left;}
+		#product-attribute .pool-item{width: 120px; background:#FFFFFF; float:left; border:1px solid #ddd; margin: 5px; padding: 5px;}
+		
+		
+		#product-attribute-add table{width:100%; border:1px dotted #eee; text-align:center;}
+		#product-attribute-add table th{padding:5px 5px 5px 5px; background: url("../images/bg.png"); color:#FFFFFF; vertical-align:middle; text-align:center}
+
+		#product-attribute-add{float:left; width:100%}
+		#product-attribute-add input{width:100px}
+		#product-attribute-add select{width:150px}		
+		
+		#product-attribute-list{float:left; width:100%}
+		#product-attribute-list table{width:100%; border:1px dotted #eee; text-align:center;}
+		#product-attribute-list table th{padding:5px 5px 5px 5px; background: url("../images/bg.png"); color:#FFFFFF; vertical-align:middle; text-align:center}
+		/* #product-attribute-list table tr:hover{background: url("../images/bg2.png");} */
+		#product-attribute-list .stock-button input{width:30px}
+		#product-attribute-list select{width:120px}
+
+	/* TAB product-attribute */	
+	
+	/* TAB ddescription */
+		.product-spec .header{width:200px}
+		.product-spec .data{width:200px}
+		.product-spec table td{ border-bottom: 1px; #FCF}
+	/* TAB ddescription */
+	
+/*** product page - end ***/
+
+
+/*** inventory page - start ***/
+		#inventory {}
+		#inventory input{ width:30px; text-align:right}
+		#inventory select{ width:150px; border: 1px solid #ddd;}
+		#inventory .store_num{font-size:16px; float:right; padding-right:10px}
+		#inventory .store_num_zore{ font-size:16px; color:#FF3333; float:right; padding-right:10px}		
+
+/*** inventory end - start ***/
+
+
+
+/*** order records edit page - start ***/
+		#order{padding:0px; width:1000px;}
+		#order 
+		#order #order-info{width:450px; float:left;}
+		#order #order-info fieldset{}{ height:250px}		
+		#order-details{padding:3px;}
+		#order-details table {width:100%; border-collapse:collapse; background-color:#FFFFFF; border:1px dotted #ccc;}
+		#order-details table thead{}
+		/* #order-details table tbody tr:hover{background: url("../images/bg2.png");} */
+		#order-details table th{padding:5px 5px 5px 5px; background: url("../images/bg.png"); color:#FFFFFF;}
+		#order-details table td{padding:10px 0 0 0}
+		#order-summary {text-align:right; margin-top:20px}
+
+/*** order records edit page - start ***/
+
+
+/*** button - start ***/
+	a.boldbuttons{
+	background: transparent url('../images/button/roundedge-gray-left.png') no-repeat top left;
+	display: block;
+	float: left;
+	font:14px Century Gothic; /* Change 13px as desired */
+	line-height: 22px; /* This value + 4px + 4px (top and bottom padding of SPAN) must equal height of button background (default is 30px) */
+	height: 30px; /* Height of button background height */
+	padding-left: 8px; /* Width of left menu image */
+	text-decoration: none;
+	margin-right:10px;
+	width:120px;
+	text-align:center;
+	}
+	
+	a:link.boldbuttons, a:visited.boldbuttons, a:hover.boldbuttons, a:active.boldbuttons{
+	color: white; /*button text color*/
+	}
+	
+	a.boldbuttons span{
+	background: transparent url('../images/button/roundedge-gray-right.png') no-repeat top right;
+	display: block;
+	padding: 4px 10px 4px 2px; /*Set 10px to be equal or greater than'padding-left' value above*/
+	}
+	
+	a:hover.boldbuttons{ /* Hover state CSS */
+	text-decoration: none;
+	}
+	
+	.buttonwrapper{ /* Container you can use to surround a CSS button to clear float */
+	overflow: hidden; /*See: http://www.quirksmode.org/css/clearing.html */
+	width: 100%;
+	}
+	
+/*** button - end ***/
+
+
+
+/*** main menu - start ***/
+	.ddsmoothmenu{
+	font: bold 12px;
+	background: url("../images/bg.png"); /*background of menu bar (default state)*/
+	width: 100%;
+	}
+	
+	.ddsmoothmenu ul{
+	z-index:100;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	}
+	
+	/*Top level list items*/
+	.ddsmoothmenu ul li{
+	position: relative;
+	display: inline;
+	float: left;
+	}
+	
+	/*Top level menu link items style*/
+	.ddsmoothmenu ul li a{
+	display: block;
+	background: url("../images/bg.png"); /*background of menu items (default state)*/
+	color: white;
+	padding: 8px 10px;
+	border-right: 0px solid #778;
+	color: #2d2b2b;
+	text-decoration: none;
+	}
+	
+	* html .ddsmoothmenu ul li a{ /*IE6 hack to get sub menu links to behave correctly*/
+	display: inline-block;
+	}
+	
+	.ddsmoothmenu ul li a:link, .ddsmoothmenu ul li a:visited{
+	color: white;
+	}
+	
+	.ddsmoothmenu ul li a.selected{ /*CSS class that's dynamically added to the currently active menu items' LI A element*/
+	background:#66CC66; 
+	color: white;
+	}
+	
+	.ddsmoothmenu ul li a:hover{
+	background:#339900; /*background of menu items during onmouseover (hover state)*/
+	color: white;
+	}
+		
+	/*1st sub level menu*/
+	.ddsmoothmenu ul li ul{
+	position: absolute;
+	left: 0;
+	display: none; /*collapse all sub menus to begin with*/
+	visibility: hidden;
+	}
+	
+	/*Sub level menu list items (undo style from Top level List Items)*/
+	.ddsmoothmenu ul li ul li{
+	display: list-item;
+	float: none;
+	}
+	
+	/*All subsequent sub menu levels vertical offset after 1st level sub menu */
+	.ddsmoothmenu ul li ul li ul{
+	top: 0;
+	}
+	
+	/* Sub level menu links style */
+	.ddsmoothmenu ul li ul li a{
+	font: normal 14px;
+	width: 160px; /*width of sub menus*/
+	padding: 5px;
+	margin: 0;
+	border-top-width: 0;
+	border-bottom: 1px solid gray;
+	}
+	
+	/* Holly Hack for IE \*/
+	* html .ddsmoothmenu{height: 1%;} /*Holly Hack for IE7 and below*/
+	
+	
+	/* ######### CSS classes applied to down and right arrow images  ######### */
+	
+	.downarrowclass{
+	position: absolute;
+	top: 12px;
+	right: 7px;
+	}
+	
+	.rightarrowclass{
+	position: absolute;
+	top: 6px;
+	right: 5px;
+	}
+
+	
+	/* ######### CSS for shadow added to sub menus  ######### */
+	
+	.ddshadow{
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 0;
+	height: 0;
+	}
+	
+	.toplevelshadow{ /*shadow opacity. Doesn't work in IE*/
+		opacity: 0.8;
+	}
+
+/*** main menu - end ***/
+
+
+/*** color picker - start ***/
+	.ColorPickerDivSample{margin: 0px 0px 0px 4px; border: 1px solid #000; padding: 0px 10px; position: relative; cursor: pointer;}
+/*** color picker - end ***/
+
+
+/*** lookup-start ***/
+	.lookup-table {background-color:#FFFFFF;}
+	.lookup-table th{ background: url("../images/bg.png"); height:30px; color:#FFFFFF; }
+	.lookup-table td{ text-align:center;}
+	.lookup_tools {display:none; color:#6600FF; background-color:#FFFFFF; width:1000px; position:relative; background-color:#FFFFCC;}
+	.lookup_tools input[type="text"]{margin:2px}
+	.lookup_result {display:none; width:1000px; height:500px; overflow: scroll; position:absolute; background-color:#eeeeee; border: 1px solid #333; }
+
+/*** lookup-end ***/
+
+/*** largerCheckbox-end ***/
+input.largerCheckbox{
+width: 30px;
+height: 30px;}
+/*** largerCheckbox-end ***/

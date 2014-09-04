@@ -1,0 +1,1 @@
+[22-May-2012 06:14:34] PHP Fatal error:  Call to undefined function get_sys_user() in /home/camerapa/public_html/admin/include/edit_title.php on line 12

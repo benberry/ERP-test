@@ -1,0 +1,2 @@
+[02-Jun-2012 15:10:12] PHP Fatal error:  Call to undefined function get_sys_user() in /home/camerapa/public_html/admin/include/edit_title.php on line 12
+[02-Jun-2012 15:54:57] PHP Fatal error:  Call to undefined function get_sys_user() in /home/camerapa/public_html/admin/include/edit_title.php on line 12

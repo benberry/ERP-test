@@ -1,0 +1,6 @@
+</html>
+<?
+
+	mysql_close();
+
+?>

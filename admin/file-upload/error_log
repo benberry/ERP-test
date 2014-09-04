@@ -1,0 +1,8 @@
+[16-Apr-2012 18:24:26] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/camerapa/public_html/library/file-upload.func.php on line 735
+[16-Apr-2012 18:24:27] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/camerapa/public_html/library/file-upload.func.php on line 735
+[16-Apr-2012 18:24:28] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/camerapa/public_html/library/file-upload.func.php on line 735
+[16-Apr-2012 18:35:42] PHP Warning:  Division by zero in /home/camerapa/public_html/admin/file-upload/pop_image_paging_bar.php on line 8
+[24-May-2012 16:38:42] PHP Parse error:  syntax error, unexpected ')' in /home/camerapa/public_html/admin/main/std_save.php on line 66
+[24-May-2012 16:38:53] PHP Parse error:  syntax error, unexpected ')' in /home/camerapa/public_html/admin/main/std_save.php on line 66
+[24-May-2012 16:39:19] PHP Parse error:  syntax error, unexpected ';' in /home/camerapa/public_html/admin/main/std_save.php on line 69
+[24-May-2012 16:39:41] PHP Parse error:  syntax error, unexpected ';' in /home/camerapa/public_html/admin/main/std_save.php on line 69

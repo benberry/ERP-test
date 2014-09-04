@@ -1,0 +1,28 @@
+[23-Feb-2012 21:13:41] PHP Fatal error:  Call to undefined function get_field() in /home/camerapa/public_html/admin/system/change_pwd.act.php on line 15
+[23-Feb-2012 21:13:44] PHP Fatal error:  Call to undefined function get_sys_user() in /home/camerapa/public_html/admin/include/edit_title.php on line 12
+[23-Feb-2012 21:14:02] PHP Fatal error:  Call to undefined function get_sys_user() in /home/camerapa/public_html/admin/include/edit_title.php on line 12
+[02-Jun-2012 15:09:37] PHP Fatal error:  Call to undefined function get_sys_user() in /home/camerapa/public_html/admin/include/edit_title.php on line 12
+[28-Aug-2012 16:01:35] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[28-Aug-2012 16:01:36] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[28-Aug-2012 16:01:38] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[28-Aug-2012 16:01:38] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[28-Aug-2012 16:01:40] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[28-Aug-2012 16:01:40] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[28-Aug-2012 16:01:41] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[28-Aug-2012 16:01:41] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Sep-2013 14:38:50] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/unioncam/public_html/ph/admin/system/login.act.php:10) in /home/unioncam/public_html/ph/admin/system/login.act.php on line 55
+[12-Sep-2013 14:39:05] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/unioncam/public_html/ph/admin/system/login.act.php:10) in /home/unioncam/public_html/ph/admin/system/login.act.php on line 55
+[12-Sep-2013 14:39:10] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/unioncam/public_html/ph/admin/system/login.act.php:10) in /home/unioncam/public_html/ph/admin/system/login.act.php on line 55
+[12-Sep-2013 14:39:13] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/unioncam/public_html/ph/admin/system/login.act.php:10) in /home/unioncam/public_html/ph/admin/system/login.act.php on line 55
+[12-Sep-2013 14:52:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/unioncam/public_html/ph/admin/system/login.act.php:10) in /home/unioncam/public_html/ph/admin/system/login.act.php on line 44
+[12-Sep-2013 14:55:38] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/unioncam/public_html/ph/admin/system/login.act.php:10) in /home/unioncam/public_html/ph/admin/system/login.act.php on line 44
+[12-Sep-2013 14:55:43] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/unioncam/public_html/ph/admin/system/login.act.php:10) in /home/unioncam/public_html/ph/admin/system/login.act.php on line 44
+[12-Sep-2013 14:55:47] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/unioncam/public_html/ph/admin/system/login.act.php:10) in /home/unioncam/public_html/ph/admin/system/login.act.php on line 44
+[12-Sep-2013 14:57:13] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/unioncam/public_html/ph/admin/system/login.act.php:10) in /home/unioncam/public_html/ph/admin/system/login.act.php on line 44
+[12-Sep-2013 14:57:18] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/unioncam/public_html/ph/admin/system/login.act.php:10) in /home/unioncam/public_html/ph/admin/system/login.act.php on line 44
+[12-Sep-2013 14:58:00] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/unioncam/public_html/ph/admin/system/login.act.php:10) in /home/unioncam/public_html/ph/admin/system/login.act.php on line 44
+[12-Sep-2013 14:58:04] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/unioncam/public_html/ph/admin/system/login.act.php:10) in /home/unioncam/public_html/ph/admin/system/login.act.php on line 44
+[12-Sep-2013 14:58:53] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/unioncam/public_html/ph/admin/system/login.act.php:10) in /home/unioncam/public_html/ph/admin/system/login.act.php on line 44
+[12-Sep-2013 14:59:29] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/unioncam/public_html/ph/admin/system/login.act.php:10) in /home/unioncam/public_html/ph/admin/system/login.act.php on line 44
+[12-Sep-2013 15:03:19] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/unioncam/public_html/ph/admin/system/login.act.php:10) in /home/unioncam/public_html/ph/admin/system/login.act.php on line 44
+[12-Sep-2013 15:03:31] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/unioncam/public_html/ph/admin/system/login.act.php:10) in /home/unioncam/public_html/ph/admin/system/login.act.php on line 44

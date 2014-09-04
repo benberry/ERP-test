@@ -1,0 +1,4 @@
+[18-Feb-2012 23:19:14] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/camerapa/public_html/library/file-upload.func.php on line 735
+[18-Feb-2012 23:19:15] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/camerapa/public_html/library/file-upload.func.php on line 735
+[18-Feb-2012 23:19:17] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/camerapa/public_html/library/file-upload.func.php on line 735
+[06-Dec-2012 10:07:56] PHP Fatal error:  Call to undefined function alert() in /home/unioncam/public_html/retail/admin/product/tab-photo-update.php on line 64

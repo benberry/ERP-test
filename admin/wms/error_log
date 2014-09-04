@@ -1,0 +1,10 @@
+[20-Aug-2014 03:35:15 America/Chicago] PHP Warning:  mysql_num_fields() expects parameter 1 to be resource, boolean given in /home/androide/public_html/export/erp/admin/wms/wms.export_csv.php on line 82
+[20-Aug-2014 03:35:15 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/androide/public_html/export/erp/admin/wms/wms.export_csv.php on line 99
+[20-Aug-2014 03:37:50 America/Chicago] PHP Warning:  mysql_num_fields() expects parameter 1 to be resource, boolean given in /home/androide/public_html/export/erp/admin/wms/wms.export_csv.php on line 82
+[20-Aug-2014 03:37:50 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/androide/public_html/export/erp/admin/wms/wms.export_csv.php on line 99
+[28-Aug-2014 05:06:34 America/Chicago] PHP Warning:  mysql_num_fields() expects parameter 1 to be resource, boolean given in /home/androide/public_html/export/erp/admin/wms/wms.export_csv.php on line 91
+[28-Aug-2014 05:06:34 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/androide/public_html/export/erp/admin/wms/wms.export_csv.php on line 108
+[28-Aug-2014 05:07:52 America/Chicago] PHP Warning:  mysql_num_fields() expects parameter 1 to be resource, boolean given in /home/androide/public_html/export/erp/admin/wms/wms.export_csv.php on line 91
+[28-Aug-2014 05:07:52 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/androide/public_html/export/erp/admin/wms/wms.export_csv.php on line 108
+[28-Aug-2014 05:08:39 America/Chicago] PHP Warning:  mysql_num_fields() expects parameter 1 to be resource, boolean given in /home/androide/public_html/export/erp/admin/wms/wms.export_csv.php on line 91
+[28-Aug-2014 05:08:39 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/androide/public_html/export/erp/admin/wms/wms.export_csv.php on line 108
