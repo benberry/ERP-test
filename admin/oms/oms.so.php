@@ -538,7 +538,6 @@ $(document).ready(function() {
                    <?php
                   //$row[id]
 					 //if($row['remarks']!='' && $row['order_status_id']=='7'){
-						
 					 ?>				
 				</tr>-->
 				<?	
