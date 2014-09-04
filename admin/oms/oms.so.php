@@ -253,7 +253,6 @@ if ($result=mysql_query($sql))
 						$( "#log" ).html(check_type+" failed!");
 				});
 			}
-				
 			
 		});
 	});
